@@ -1,4 +1,4 @@
-# Space sheep
+# Space ship
 This repository contains all the code used both for the server and the user, if you want you can run this on your machine (for running the serverside of the game yourself go to [Installation](#installation))
 
 ## Tutorial
